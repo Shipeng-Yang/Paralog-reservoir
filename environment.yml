@@ -1,0 +1,15 @@
+name: paralog-forecast
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy>=2.0
+  - pandas>=2.2
+  - scipy>=1.11
+  - statsmodels>=0.14
+  - scikit-learn>=1.3
+  - matplotlib>=3.7
+  - pyyaml>=6.0
+  - pip
+# Tested with: python 3.12, numpy 2.3.5, pandas 3.0, statsmodels 0.14, scikit-learn 1.x, scipy 1.17.
+# Outputs are written as TSV/CSV (not pickled models) to minimise version drift.

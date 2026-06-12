@@ -1,0 +1,4 @@
+# Copy this to config/config.yaml and edit, OR set the PARALOG_ROOT environment variable.
+# project_root must point to the directory holding the Zenodo-archived frozen_inputs/ tree.
+project_root: /path/to/paralog_frozen_inputs   # e.g. where you unpacked the Zenodo archive
+outputs: outputs

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Reproducibility code and forecastability assay for: Crop trait genes are drawn from a functionally structured but non-forecastable paralog reservoir"
+message: "If you use this repository, please cite the associated manuscript and the archived Zenodo release."
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Shipeng"
+    # orcid: pending (add before publication)
+repository-code: "https://github.com/Shipeng-Yang/Paralog-reservoir"
+# doi: pending (Zenodo software DOI auto-minted on first GitHub release; data DOI is 10.5281/zenodo.20668368, see README)
+date-released: "2026-01-01"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Crop trait genes are drawn from a functionally structured but non-forecastable paralog reservoir"
+  authors:
+    - family-names: "Yang"
+      given-names: "Shipeng"
+  year: 2026
+  notes: "DOI pending (in review)."

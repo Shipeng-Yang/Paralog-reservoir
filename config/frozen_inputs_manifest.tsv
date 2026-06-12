@@ -1,0 +1,5 @@
+logical_name	zenodo_filename	description	used_by
+gene_level_foundation	gene_level_foundation.parquet	12-species gene-level paralog foundation (dup mode, is_wgd, family size, orthogroup, function bin, age, cloned-trait flag)	reproduce/section_3_enrichment, reproduce/section_4_forecastability
+cloned_trait_catalogue	cloned_domestication_genes.tsv	curated cloned domestication/improvement trait genes (150)	reproduce/section_3_enrichment
+c1_per_crop_or	C1_per_crop_OR.tsv	locked per-crop WGD-vs-other enrichment (reference values)	reproduce/section_3_enrichment
+wp18_5_prediction_metrics	WP18_5_prediction_metrics.tsv	locked forecastability metrics (reference values)	reproduce/section_4_forecastability

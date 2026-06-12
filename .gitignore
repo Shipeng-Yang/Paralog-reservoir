@@ -1,0 +1,83 @@
+# ---- never commit large scientific data (these live on Zenodo, not GitHub) ----
+*.npz
+*.npy
+*.parquet
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.feather
+*.fa
+*.faa
+*.fna
+*.fasta
+*.fq
+*.fastq
+*.sam
+*.bam
+*.cram
+*.vcf
+*.bcf
+*.gff
+*.gff3
+*.gtf
+*.bed
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+*.bz2
+*.xz
+*.xls
+*.xlsx
+
+# ---- local full-data trees / pointers (resolved via PARALOG_ROOT) ----
+config/config.yaml
+frozen_inputs/
+raw/
+intermediate/
+scratch/
+outputs/
+results/
+logs/
+figures_out/
+tables_out/
+
+# ---- python / env ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+build/
+dist/
+
+# ---- manuscript / private (excluded until acceptance) ----
+manuscript/
+supplement/
+*_DRAFT*
+*reviewer*
+# loose manuscript/SI document files (belt-and-suspenders; never commit the paper before acceptance)
+*.pdf
+*.docx
+*.doc
+*.odt
+*.rtf
+*.tex
+*.pptx
+
+# ---- editor / OS ----
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# ---- exception: the synthetic example table IS committed (it is tiny + simulated) ----
+!data/example/synthetic_gene_table.tsv
