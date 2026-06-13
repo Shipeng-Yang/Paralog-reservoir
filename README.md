@@ -77,7 +77,7 @@ These drivers call the same `paralog_forecast/` code, so they are also worked re
 
 ## Data availability
 Frozen inputs (gene-level paralog foundation, cloned-trait catalogue, locked result tables) and the
-larger derived data are archived at **Zenodo: DOI [`10.5281/zenodo.20668368`](https://doi.org/10.5281/zenodo.20668368)**. The raw
+larger derived data are archived at **Zenodo: DOI [`10.5281/zenodo.20669687`](https://doi.org/10.5281/zenodo.20669687)**. The raw
 genomes/annotations come from their original public sources (PLAZA, RAP-DB, MaizeGDB, SGN, SoyBase,
 AraGWAS, and the cited selection-sweep studies); see the manuscript Methods.
 
@@ -100,7 +100,7 @@ Please cite the manuscript and the archived Zenodo release (`CITATION.cff`).
 
 ## Status
 Pre-submission. Author: Shipeng Yang (ORCID and affiliation to be added before publication). GitHub:
-`https://github.com/Shipeng-Yang/Paralog-reservoir`. The data archive DOI is
-[`10.5281/zenodo.20668368`](https://doi.org/10.5281/zenodo.20668368); the article DOI and the Zenodo
-software-release DOI are pending. The manuscript and Supplementary Information are not included here
-until acceptance.
+`https://github.com/Shipeng-Yang/Paralog-reservoir`. Code and frozen inputs are archived on Zenodo
+(concept DOI [`10.5281/zenodo.20669687`](https://doi.org/10.5281/zenodo.20669687), resolving to the
+latest version); the article DOI is pending. The manuscript and Supplementary Information are not
+included here until acceptance.

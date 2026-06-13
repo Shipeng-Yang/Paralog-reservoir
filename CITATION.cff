@@ -7,7 +7,7 @@ authors:
     given-names: "Shipeng"
     # orcid: pending (add before publication)
 repository-code: "https://github.com/Shipeng-Yang/Paralog-reservoir"
-# doi: pending (Zenodo software DOI auto-minted on first GitHub release; data DOI is 10.5281/zenodo.20668368, see README)
+doi: "10.5281/zenodo.20669687"
 date-released: "2026-01-01"
 license: MIT
 preferred-citation:
