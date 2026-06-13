@@ -1,5 +1,8 @@
 # Crop trait genes are drawn from a functionally structured but non-forecastable paralog reservoir
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20669687.svg)](https://doi.org/10.5281/zenodo.20669687)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Reproducibility code and a small reusable assay for the manuscript of the same title.
 
 The main result is a contrast. Whole-genome-duplication (WGD) paralogs are enriched among the cloned
